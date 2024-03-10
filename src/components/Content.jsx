@@ -61,7 +61,7 @@ const Content = () => {
         <nav className=' h-20 flex justify-between items-center fixed top-0 w-full shadow-md shadow-black bg-[#0f172a] z-10'>
         
         <div className='h-16 flex items-center'>
-            <img src='src\assets\logo.png' onClick={() => window.location.reload(false)} className='md:h-14 h-full cursor-pointer ' />
+            <img src='/assets/logo.png' onClick={() => window.location.reload(false)} className='md:h-14 h-full cursor-pointer ' />
         </div>
 
         <div className='p-2 '>
